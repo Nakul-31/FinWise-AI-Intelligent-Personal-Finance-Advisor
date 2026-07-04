@@ -330,7 +330,7 @@ with st.sidebar:
 
     st.markdown("""
     <div style="margin-top:auto; padding-top:20px; font-size:0.7rem; color:#4a5a7a; text-align:center;">
-        FinWise AI v1.0<br>Powered by Claude AI
+        FinWise AI<br> Developed By Nakul Dhiman
     </div>
     """, unsafe_allow_html=True)
 
@@ -1281,6 +1281,6 @@ elif page == "🎯 Goals":
 # ── Footer ──
 st.markdown("""
 <div class="fw-footer">
-    FinWise AI — Intelligent Personal Finance Advisor &nbsp;·&nbsp; Powered by Claude AI &nbsp;·&nbsp; Data is processed locally
+    FinWise AI — Intelligent Personal Finance Advisor &nbsp;
 </div>
 """, unsafe_allow_html=True)
